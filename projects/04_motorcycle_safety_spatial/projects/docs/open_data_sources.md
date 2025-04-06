@@ -1,6 +1,5 @@
 | Ciudad/Región | Fuente de Datos | URL de Acceso | Tipo de Datos | Categoría | Frecuencia de Actualización | Formato |
 |---------------|------------------|----------------|----------------|------------|------------------------------|---------|
-| Medellín | Incidentes Viales con Motos (Datos Abiertos Colombia) | [Ver datos](https://www.datos.gov.co/Transporte/Incidentes-viales-con-Motos/mfwq-9cxj/data) | Registros de accidentes con motocicletas (ubicación, severidad, fecha) | Transporte | Actualización periódica | CSV, JSON, API REST |
 | Medellín | Estado de Cuenta y Pago de Multas (Medellín) | [Ver portal](https://www.medellin.gov.co/es/tramites-y-servicios/estado-de-cuenta-y-pago-de-multas/) | Consulta de infracciones y multas por placa o documento | Transporte | Tiempo real / Diario | Plataforma en línea (posible API) |
 | Medellín | GeoMedellín – Datos Espaciales Abiertos | [Ver mapas](https://www.medellin.gov.co/geomedellin/datosAbiertos/268) | Datos espaciales sobre movilidad y accidentes (zonas de riesgo, mapas) | Geoespacial | Actualización continua | SHP, GeoJSON, WMS |
 | Barranquilla | Accidentalidad en Barranquilla | [Ver datos](https://www.datos.gov.co/Transporte/Accidentalidad-en-Barranquilla/yb9r-2dsi) | Accidentes con ubicación, fecha, tipo de vehículo involucrado | Transporte | Históricos con actualización periódica | CSV, JSON, API REST |
